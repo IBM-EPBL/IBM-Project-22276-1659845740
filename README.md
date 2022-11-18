@@ -1,14 +1,25 @@
 # IBM-Project-22276-1659845740
+
 Analytics for Hospitals' Health-Care Data
+
 Project Details
+
 Team ID	PNT2022TMID27276
+
 Domain	Data Analytics
+
 Project Name	Analytics for Hospitals' Health-Care Data
+
 Team Members
+
 Team Member	Name	Register Number
+
 Team Leader	Praddep rajal	3110191040
+
 Team Member-1	Tahsin Ansari I	311019104095
+
 Team Member-2	Mohammed sameer ali 311019104047
+
 Team Member-3	Dinesh M	311019104020
 
 Goal:
