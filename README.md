@@ -14,7 +14,7 @@ Team Members
 
 Team Member	   Name	                Register Number
 
-Team Leader  	 Praddep rajal	      311019104060
+Team Leader  	 Pradeep rajal	      311019104060
 
 Team Member-1	 Tahsin Ansari I	    311019104095
 
